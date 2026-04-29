@@ -6,7 +6,7 @@ To develop a Python program to evaluate and improve a policy in the FrozenLake-v
 ## PROBLEM STATEMENT
 To implement policy iteration on the FrozenLake-v1 environment by performing policy evaluation and policy improvement repeatedly, and determine the optimal policy by comparing state-value functions, average return, and probability of reaching the goal.
 ## POLICY EVALUATION FUNCTION
-## PROGRAM
+
 ```python
 import warnings ; warnings.filterwarnings('ignore')
 
